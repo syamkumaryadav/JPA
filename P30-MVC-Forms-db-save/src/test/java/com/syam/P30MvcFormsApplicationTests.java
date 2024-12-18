@@ -4,7 +4,7 @@ import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class P34MvcDbSaveApplicationTests {
+class P30MvcFormsApplicationTests {
 
 	@Test
 	void contextLoads() {
